@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
+<div align="center">
+  <h3>Languages:</h3>
+  <img src="https://skillicons.dev/icons?i=python,git,bash" />
+  <h3>Tools:</h3>
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+  <h3>os:</h3>
+  <img src="https://skillicons.dev/icons?i=windows,debian" />
+</div>
 <!--
 **alireza-khadem91/alireza-khadem91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
