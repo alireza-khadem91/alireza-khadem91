@@ -4,7 +4,7 @@
 </div>
 <div align="center">
   <h3>Languages:</h3>
-  <img src="https://skillicons.dev/icons?i=python,git,bash" />
+  <img src="https://skillicons.dev/icons?i=python,git,bash,powershell" />
   <h3>Tools:</h3>
   <img src="https://skillicons.dev/icons?i=github,vscode" />
   <h3>os:</h3>
