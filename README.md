@@ -6,9 +6,9 @@
   <h3>Languages:</h3>
   <img src="https://skillicons.dev/icons?i=python,git,bash,powershell" />
   <h3>Tools:</h3>
-  <img src="https://skillicons.dev/icons?i=github,vscode" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,anaconda" />
   <h3>os:</h3>
-  <img src="https://skillicons.dev/icons?i=windows,debian" />
+  <img src="https://skillicons.dev/icons?i=windows,debian,linux" />
 </div>
 
 <!--
