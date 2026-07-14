@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, I'm Alireza</h1>
+<h1 align="center">Hello 👋, I'm Alireza</h1>
 <div align="center">
-  <h3>I am learning the Python programming <br> language and the Linux operating system.</h3>
+  <h3>a beginner programmer with a strong <br> interest in the world of technology.</h3>
 </div>
 <div align="center">
-  <h3>Languages:</h3>
-  <img src="https://skillicons.dev/icons?i=python,git,bash,powershell" />
+  <h3>Languages and Frameworks:</h3>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,golang,flask,git,bash,powershell,markdown" />
+  <h3>Data Base:</h3>
+  <img src="https://skillicons.dev/icons?i=sqlite" />
   <h3>Tools:</h3>
   <img src="https://skillicons.dev/icons?i=github,vscode,anaconda" />
   <h3>os:</h3>
-  <img src="https://skillicons.dev/icons?i=windows,debian,linux" />
+  <img src="https://skillicons.dev/icons?i=windows" />
 </div>
-
 <!--
 **alireza-khadem91/alireza-khadem91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
