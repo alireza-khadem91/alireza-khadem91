@@ -4,7 +4,7 @@
 </div>
 <div align="center">
   <h3>Languages and Frameworks:</h3>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,golang,flask,git,sqlaichemy,bash,powershell,markdown" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,golang,flask,git,sqlalchemy,bash,powershell,markdown" />
   <h3>Data Base:</h3>
   <img src="https://skillicons.dev/icons?i=sqlite" />
   <h3>Tools:</h3>
