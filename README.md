@@ -1,17 +1,50 @@
 <h1 align="center">Hello 👋, I'm Alireza</h1>
+
 <div align="center">
-  <h3>a beginner programmer with a strong <br> interest in the world of technology.</h3>
+  
+  <h3>🌱 a beginner programmer with a strong <br> interest in the world of technology.</h3>
+  <br><br>
+  
+  <h3>⚡ Languages & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,golang,rust" />
+  <br><br>
+  
+  <h3>🛠️ Tools & Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,anaconda,bash,powershell,markdown" />
+  <br><br>
+
+  <h3>🗄️ Database</h3>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,redis" />
+  <br><br>
+  
+  <h3>💻 OS</h3>
+  <img src="https://skillicons.dev/icons?i=windows,debian" />
+  <br><br>
+  
+  <h3>📁 My Projects</h3>
+  <em>Coming soon... 🚧</em>
+  
 </div>
+
 <div align="center">
-  <h3>Languages and Frameworks:</h3>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,golang,flask,git,sqlalchemy,bash,powershell,markdown" />
-  <h3>Data Base:</h3>
-  <img src="https://skillicons.dev/icons?i=sqlite" />
-  <h3>Tools:</h3>
-  <img src="https://skillicons.dev/icons?i=github,vscode,anaconda" />
-  <h3>os:</h3>
-  <img src="https://skillicons.dev/icons?i=windows" />
+  <h3>📖 Languages</h3>
+  
+  <table>
+    <tr>
+      <td>🇮🇷 <b>Persian</b></td>
+      <td>Native / C2</td>
+    </tr>
+    <tr>
+      <td>🇬🇧 <b>English</b></td>
+      <td>Elementary / A2</td>
+    </tr>
+    <tr>
+      <td>🇩🇪 <b>German</b></td>
+      <td>Beginner / A1</td>
+    </tr>
+  </table>
 </div>
+
 <!--
 **alireza-khadem91/alireza-khadem91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
